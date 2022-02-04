@@ -1,0 +1,10 @@
+<!doctype html>
+<title>Hello from Flask</title>
+<main>
+  <h1>Добро пожаловать в игру КБ ПУМ.(Делаем рассчет на то, что вы все же знаете правила) </h1>
+  <img width="450px" height="450px" src="https://kartinkin.net/uploads/posts/2021-03/1617043138_26-p-kot-oboi-28.jpg" alt="ooops">
+</main>
+<form action="http://192.168.1.68/" method="post" >
+  <p>Напишите ваше имя и нажмите на кнопку</p>
+   <p><input type="text" name="nm"> <input type="submit" value = 'submit'></p>
+</form>
